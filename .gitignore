@@ -1,0 +1,22 @@
+# Raw data (fetched from Kaggle, not committed)
+data.csv
+data/
+
+# Virtual environment
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Course reference material (local only)
+Lecture 02 Data Wrangling.ipynb
+Lecture 02 Python Code.ipynb
+Mini Project 01.pdf
